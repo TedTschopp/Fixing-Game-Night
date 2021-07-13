@@ -5,8 +5,8 @@ categories:
   - Blog
 tags:
   - Post Formats
-  - readability
-  - standard
+  - Readability
+  - Standard
 ---
 
 This post has been updated and should show a modified date if used in a layout.

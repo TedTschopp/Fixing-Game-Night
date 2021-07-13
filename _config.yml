@@ -119,5 +119,5 @@ repository: TedTschopp/Fixing-Game-Night
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-dark-orange" # "github-dark"
+    theme: "github-dark-orange"
     issue_term: "pathname"

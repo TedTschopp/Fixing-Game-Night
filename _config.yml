@@ -114,4 +114,10 @@ tag_archive:
   path: /tags/
 
 
+# Used by Utterances
 repository: TedTschopp/Fixing-Game-Night
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"

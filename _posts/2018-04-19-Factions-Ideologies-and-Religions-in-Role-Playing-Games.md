@@ -17,7 +17,10 @@ guid: e679b34c-0771-4e90-af7a-d082eb71178c
 # image: /wp-content/uploads/2018/04/Sunset on this ideology.jpg
 # image-credits: |
 #  Sunset on this ideology - Užhorod - Sunset near the border (Slovack Rep. Ukaine) - Ukraine, Uzgorod City by Giorgio Minguzzi https://www.flickr.com/photos/iz4aks/ 4005020863 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)
+
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Religion
   - Politics

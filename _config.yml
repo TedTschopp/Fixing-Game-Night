@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ted Tschopp"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Fixing Game Night"
+  avatar : "/assets/images/Fixing Game Night Logo.png"
+  bio    : "Ideas on improving the games we play."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

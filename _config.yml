@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ideas on improving the games we play.
 twitter_username: fixinggamenight
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
+
 search: true
 
 # Build settings

@@ -1,0 +1,14 @@
+Ted Tschopp:
+  name        : "Ted Tschopp"
+  bio         : "✟☧♂⚤ 🇺🇸🇺🇳Background:📈𝕄𝕒𝕣𝕜𝕖𝕥 ℝ𝕖𝕤𝕖𝕒𝕣𝕔𝕙🧑🏻‍💻𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎📐Enterprise Architect Founded:🧙‍♂️𝔗𝔥𝔢𝔒𝔫𝔢ℜ𝔦𝔫𝔤.𝔠𝔬𝔪"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ted@tschopp.org  "
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tedt.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tedtschopp"

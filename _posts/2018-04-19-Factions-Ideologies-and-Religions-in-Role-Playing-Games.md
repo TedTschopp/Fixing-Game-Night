@@ -15,6 +15,7 @@ tags:
 
 excerpt_separator: "<!--more-->"
 
+author: Ted Tschopp
 
 #author:
 #  name: Ted Tschopp

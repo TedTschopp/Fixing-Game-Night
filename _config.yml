@@ -24,6 +24,9 @@ twitter_username: fixinggamenight
 github_username: username
 minimal_mistakes_skin: sunrise
 
+logo: "/assets/images/Fixing-Game-Night-Banner.png"
+masthead_title: "Fixing Game Night"
+
 search: true
 
 # Build settings

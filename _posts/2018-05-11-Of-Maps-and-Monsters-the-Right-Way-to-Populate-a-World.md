@@ -792,7 +792,7 @@ In Fantasy Role Playing Games it can not always be assumed that there is a Stell
 ### Spherical
 
 #### Distance to the horizon
-Based on the following formula. 
+The distance to the horizion is based on the following formula. 
 
 $$
 d = \sqrt{h\times(2 \times R+h)} 

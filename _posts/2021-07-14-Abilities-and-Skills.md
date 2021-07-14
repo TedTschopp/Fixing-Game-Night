@@ -2,7 +2,6 @@
 title: "Skills and Abilities"
 date: 2021-07-14 15:55:46-07:00
 
-
 categories:
   - Blog
 tags:

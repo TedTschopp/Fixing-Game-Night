@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - Role Playing Games
-  - Gamma World
+  - ☢️ Gamma World
   - Draft
 excerpt_separator: "<!--more-->"
 

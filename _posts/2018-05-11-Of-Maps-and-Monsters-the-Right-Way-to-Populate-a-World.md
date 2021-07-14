@@ -43,6 +43,11 @@ toc_sticky: true
 
 # draft-status: notes
 mathjax: true
+
+
+head_scripts:
+ - https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-svg.js
+
 ---
 <style>
 .dccvsdnd thead tr th {
@@ -50,12 +55,6 @@ mathjax: true
 }
 </style>
 
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
 
 # Notes

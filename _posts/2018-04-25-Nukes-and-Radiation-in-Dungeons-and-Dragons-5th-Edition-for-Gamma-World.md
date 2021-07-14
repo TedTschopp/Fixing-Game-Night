@@ -1,6 +1,4 @@
 ---
-
-
 title: "Nukes and Radiation in Dungeons and Dragons 5th Edition for Gamma World"
 date: 2018-04-25T02:20:00+00:00
 last_modified_at: 2021-07-13 19:48:42-07:00

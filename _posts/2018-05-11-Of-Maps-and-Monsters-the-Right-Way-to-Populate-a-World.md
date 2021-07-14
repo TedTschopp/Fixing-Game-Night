@@ -45,8 +45,7 @@ toc_sticky: true
 mathjax: true
 
 
-head_scripts:
- - https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-svg.js
+
 
 ---
 <style>

@@ -21,7 +21,7 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
-excerpt: Most societies are formed around a given ideology or way of thinking.
+excerpt: "Most societies are formed around a given ideology or way of thinking."
 
 header: 
   image: /assets/images/Sunset-on-this-ideology.jpeg

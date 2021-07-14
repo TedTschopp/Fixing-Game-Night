@@ -17,6 +17,11 @@ excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp
 
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: dice-d20
+toc_sticky: false
+
 #author:
 #  name: Ted Tschopp
 #  url: https://www.tedt.org/
@@ -37,13 +42,7 @@ author: Ted Tschopp
 
 
 ---
-<!-- # Contents
-{:.no_toc}
 
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc} -->
-
-{% include toc icon="cog" title="My Table of Contents" %}
 
 # Notes
 

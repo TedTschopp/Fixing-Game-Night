@@ -22,8 +22,14 @@ toc_icon: dice-d20
 toc_sticky: true
 
 header: 
-  overlay_image: /assets/images/Sunset-on-this-ideology.jpeg
-  caption: "Sunset on this ideology - Užhorod - Sunset near the border (Slovack Rep. Ukaine) - Ukraine, Uzgorod City by Giorgio Minguzzi https://www.flickr.com/photos/iz4aks/ 4005020863 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)"
+  image: /assets/images/Sunset-on-this-ideology.jpeg
+#  overlay_image: /assets/images/Sunset-on-this-ideology.jpeg
+  caption: "Sunset on this ideology - Užhorod - Sunset near the border (Slovack Rep. Ukaine) - Ukraine, Uzgorod City by Giorgio Minguzzi https://www.flickr.com/photos/iz4aks/4005020863 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)"
+#  excerpt:
+#  tagline:
+#  actions:
+#    - label: 
+#    - url:
 
 #author:
 #  name: Ted Tschopp

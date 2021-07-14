@@ -51,7 +51,7 @@ header:
 ---
 # Skills and Abilities
 
-In the image above we see Raffaello Sanzio da Urbino, more commonly known just as Raphael, picture of The School of Athens.  One of their chief subjects surrounded on the nature of mankind.  Is a man a mind and a body?  Is a man a mind, a body, and a spirit?   
+In the image above we see Raffaello Sanzio da Urbino, more commonly known just as Raphael, picture of The School of Athens.  One of their chief subjects surrounded on the nature of mankind.  Is a man a mind and a body?  Is a man a mind, a body, and a spirit?  
 
 We do not need to delve into the various aspects of these philosophical arguments here, however when devising a role playing game system we do need to answer the question, what aspects of mankind do we want to model within our system? What impacts are important for narrative tension.  I am going to argue that there are four primary impacts that can be made.  The first is physical.  The second is mental.  The third is social.  The fourth is spiritual.  If we can track these four areas we can understand a given characters Body, Mind, Self Image, and their Soul.
 

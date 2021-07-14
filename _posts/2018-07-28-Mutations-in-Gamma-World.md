@@ -32,11 +32,11 @@ toc_sticky: true
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 
 # description: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+#   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
 # excerpt: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+#   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
 # seo_description: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+#   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
 
 # layout: MCC-GW
 # guid: 2f4b8d5c-cf2a-4030-a6bf-0279eada7693

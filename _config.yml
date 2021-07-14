@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Fixing Game Night"
+title_separator: "|"
 subtitle: "Ideas on improving the games we play."
 url: "https://fixinggamenight.com"
 email:

@@ -1,35 +1,53 @@
 ---
-id: 1629
-title: Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor
+
+title: "Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor"
 date: 2018-04-22T10:04:00+00:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2021-07-13 19:46:04-07:00
 
-description: Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor.  
-
-excerpt: Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor. 
-
-layout: MCC-GW
-
-guid: b76b9f97-6472-424a-83cc-2c824b5a091b
-permalink: /2018/04/22/Dungeons-and-Dragons-5th-Edition-Rules-For-Gamma-World-Weapons/
-image: /wp-content/uploads/2018/04/The-Leviathan.jpg
-image-credits: The Leviathan by Larry Elmore - http://www.larryelmore.com/store/TSTL/tsr--the-leviathan
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - Dungeons & Dragons
   - Draft
-draft-status: component
+
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+
+# id: 1629
+# title: 
+# date: 
+# author:
+#  name: Ted Tschopp
+#  url: https://www.tedt.org/
+#  avatar: https://www.tedt.org/img/thumb3.jpg
+
+# description: Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor.  
+
+# excerpt: Dungeons and Dragons 5th Edition Rules for Gamma World Weapons and Armor. 
+
+# layout: MCC-GW
+
+# guid: b76b9f97-6472-424a-83cc-2c824b5a091b
+# permalink: /2018/04/22/Dungeons-and-Dragons-5th-Edition-Rules-For-Gamma-World-Weapons/
+# image: /wp-content/uploads/2018/04/The-Leviathan.jpg
+# image-credits: The Leviathan by Larry Elmore - http://www.larryelmore.com/store/TSTL/tsr--the-leviathan
+# categories:
+#  - Role Playing Games
+#  - Gamma World
+#  - Dungeons & Dragons
+#  - Draft
+#draft-status: component
 ---
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
 # Notes
 

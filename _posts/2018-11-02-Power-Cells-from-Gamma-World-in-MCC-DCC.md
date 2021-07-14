@@ -1,35 +1,57 @@
 ---
-title: Power Cells from Gamma World in MCC & DCC
+
+title: "Power Cells from Gamma World in MCC & DCC"
 date: 2018-11-02T10:37:12-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2021-07-13 20:03:28-07:00
 
-description: |
-   The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
-
-excerpt: |
-   The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
-
-seo_description: |
-   The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
-
-
-layout: MCC-GW
-guid: 1c1b9804-b2ab-4aac-8796-e4891fa5e66b
-permalink: /2018/11/02/Power-Cells-from-Gamma-World-in-MCC-DCC/
-image:  /media/2018-11-02/FuelCellRenders2.jpg
-image-credits: District 9 Alien Fuel Cell by Josh Haberman https://www.artstation.com/artwork/lqz25
-image-credits-title: District 9 Alien Fuel Cell
-image-credits-artist: Josh Haberman
-image-credits-URL: https://artofjoshhaberman.blogspot.com/2012/08/district-9-alien-fuel-cell.html
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - MCC
   - Draft
-draft-status: Alpha
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+# title: Power Cells from Gamma World in MCC & DCC
+# date: 2018-11-02T10:37:12-07:00
+# author:
+#   name: Ted Tschopp
+#   url: https://www.tedt.org/
+#   avatar: https://www.tedt.org/img/thumb3.jpg
+# 
+# description: |
+#    The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
+# 
+# excerpt: |
+#    The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
+# 
+# seo_description: |
+#    The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
+# 
+# 
+# layout: MCC-GW
+# guid: 1c1b9804-b2ab-4aac-8796-e4891fa5e66b
+# permalink: /2018/11/02/Power-Cells-from-Gamma-World-in-MCC-DCC/
+# image:  /media/2018-11-02/FuelCellRenders2.jpg
+# image-credits: District 9 Alien Fuel Cell by Josh Haberman https://www.artstation.com/artwork/lqz25
+# image-credits-title: District 9 Alien Fuel Cell
+# image-credits-artist: Josh Haberman
+# image-credits-URL: https://artofjoshhaberman.blogspot.com/2012/08/district-9-alien-fuel-cell.html
+# categories:
+#   - Role Playing Games
+#   - Gamma World
+#   - MCC
+#   - Draft
+# draft-status: Alpha
 ---
 
 # Contents

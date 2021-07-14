@@ -1,45 +1,59 @@
 ---
-title: Gamma World Weapons in MCC & DCC
+
+title: "Gamma World Weapons in MCC & DCC"
 date: 2018-10-14T17:37:12-07:00
-update: 2018-10-14T16:44:34-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2018-10-14T16:44:34-07:00
 
-description: |
-   The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
-
-excerpt: |
-   The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
-
-seo_description: |
-   The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
-
-
-layout: MCC-GW
-guid: 6b244c94-6395-4b8a-afb8-4c37f8dbf309
-permalink: /2018/10/14/Gamma-World-Weapons-in-MCC-DCC/
-image:  /media/2018-10-14/seth-justus-huntersalienguns.jpg
-image-credits: Hunters Alien Weapons and Devices by Seth Justus https://www.artstation.com/artwork/lqz25
-image-credits-title: Hunters Alien Weapons and Devices
-image-credits-artist: Seth Justus
-image-credits-URL: https://www.artstation.com/artwork/lqz25
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - MCC
   - Draft
-draft-status: Alpha
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+
+
+
+# title: 
+# date: 
+# update: 2018-10-14T16:44:34-07:00
+# author:
+#   name: Ted Tschopp
+#   url: https://www.tedt.org/
+#   avatar: https://www.tedt.org/img/thumb3.jpg
+# 
+# description: |
+#    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
+# 
+# excerpt: |
+#    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
+# 
+# seo_description: |
+#    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
+# 
+# 
+# layout: MCC-GW
+# guid: 6b244c94-6395-4b8a-afb8-4c37f8dbf309
+# permalink: /2018/10/14/Gamma-World-Weapons-in-MCC-DCC/
+# image:  /media/2018-10-14/seth-justus-huntersalienguns.jpg
+# image-credits: Hunters Alien Weapons and Devices by Seth Justus https://www.artstation.com/artwork/lqz25
+# image-credits-title: Hunters Alien Weapons and Devices
+# image-credits-artist: Seth Justus
+# image-credits-URL: https://www.artstation.com/artwork/lqz25
+# categories:
+# 
+# draft-status: Alpha
 ---
-
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-
 
 # Notes
 

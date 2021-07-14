@@ -1,26 +1,52 @@
 ---
-title: Of Maps and Monsters, the Right way to Populate a World Part II
+
+title: "Of Maps and Monsters, the Right way to Populate a World Part II"
 date: 2018-11-19T21:04:42-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2021-07-13 20:05:56-07:00
 
-description: 
-excerpt: |
-   This work is the beginning of a collection of notes on Monsters.  In the future I will split this out into several different sections.  I wanted to start wtih what I had here and start working my thoughts out while getting some of this out of my head and into a place I can review and look at. 
-
-layout: post
-guid: dd7cf62d-9947-46e7-b436-7fafb10027e6
-permalink: /2018/11/19/Of-Maps-and-Monsters-the-Right-Way-to-Populate-a-World-Part-II/
-image: 	/wp-content/uploads/2018/05/Ebstorfer-stich2.jpg
-image-credits: Ebstorf Map by Gervase of Ebstorf 
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Maps
   - Monsters
   - Draft
-draft-status: notes
+
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+
+
+# title: Of Maps and Monsters, the Right way to Populate a World Part II
+# date: 2018-11-19T21:04:42-07:00
+# author:
+#   name: Ted Tschopp
+#   url: https://www.tedt.org/
+#   avatar: https://www.tedt.org/img/thumb3.jpg
+# 
+# description: 
+# excerpt: |
+#    This work is the beginning of a collection of notes on Monsters.  In the future I will split this out into several different sections.  I wanted to start wtih what I # had here and start working my thoughts out while getting some of this out of my head and into a place I can review and look at. 
+# 
+# layout: post
+# guid: dd7cf62d-9947-46e7-b436-7fafb10027e6
+# permalink: /2018/11/19/Of-Maps-and-Monsters-the-Right-Way-to-Populate-a-World-Part-II/
+# image: 	/wp-content/uploads/2018/05/Ebstorfer-stich2.jpg
+# image-credits: Ebstorf Map by Gervase of Ebstorf 
+# categories:
+#   - Role Playing Games
+#   - Maps
+#   - Monsters
+#   - Draft
+# draft-status: notes
+
 mathjax: true
 ---
 <style>
@@ -29,12 +55,6 @@ mathjax: true
 }
 </style>
 
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
 
 # Notes

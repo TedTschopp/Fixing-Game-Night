@@ -1,35 +1,60 @@
 ---
-title: Firearms in MCC & DCC
+
+title: "Firearms in MCC & DCC"
 date: 2018-09-04T17:37:12-07:00
-update: 2018-09-04T16:44:34-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2018-09-04T16:44:34-07:00
 
-description: |
-   The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
-
-excerpt: |
-   The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
-
-seo_description: |
-   The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
-
-layout: MCC-GW
-guid: 4c02a988-5ea1-4ea1-8567-616e64d683c1
-permalink: /2018/09/04/Firearms-in-MCC-DCC/
-image:  /media/2018-09-04/MCC-Guns.jpg
-image-credits: Weapon & Prop Concepts by Matthew Harris https://megalomatthew.artstation.com/
-image-credits-title: Weapon & Prop Concepts
-image-credits-artist: Matthew Harris
-image-credits-URL: https://larsson.artstation.com/projects/qOJQn
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - MCC
   - Draft
-draft-status: Alpha
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+
+
+
+# title: 
+# date: 
+# update: 
+# author:
+#   name: Ted Tschopp
+#   url: https://www.tedt.org/
+#   avatar: https://www.tedt.org/img/thumb3.jpg
+# 
+# description: |
+#    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
+# 
+# excerpt: |
+#    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
+# 
+# seo_description: |
+#    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
+# 
+# layout: MCC-GW
+# guid: 4c02a988-5ea1-4ea1-8567-616e64d683c1
+# permalink: /2018/09/04/Firearms-in-MCC-DCC/
+# image:  /media/2018-09-04/MCC-Guns.jpg
+# image-credits: Weapon & Prop Concepts by Matthew Harris https://megalomatthew.artstation.com/
+# image-credits-title: Weapon & Prop Concepts
+# image-credits-artist: Matthew Harris
+# image-credits-URL: https://larsson.artstation.com/projects/qOJQn
+# categories:
+#   - Role Playing Games
+#   - Gamma World
+#   - MCC
+#   - Draft
+# draft-status: Alpha
 ---
 
 

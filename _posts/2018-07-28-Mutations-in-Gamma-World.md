@@ -1,40 +1,54 @@
 ---
-title: Mutations in Gamma World
+
+title: "Mutations in Gamma World"
 date: 2018-07-27T17:37:12-07:00
-update: 2018-07-28T16:44:34-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2018-07-28T16:44:34-07:00
 
-description: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
-excerpt: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
-seo_description: |
-   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
-
-layout: MCC-GW
-guid: 2f4b8d5c-cf2a-4030-a6bf-0279eada7693
-image: 	/media/2018-07-28/ola-larsson-genlabbalpha.jpg
-image-credits: Genelab Alpha by Ola Larsson https://larsson.artstation.com/projects/qOJQn
-image-credits-title: Genelab Alpha
-image-credits-artist: Ola Larsson
-image-credits-URL: https://larsson.artstation.com/projects/qOJQn
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - Draft
-draft-status: notes
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+
+
+
+# title: 
+# date: 
+# update: 
+# author:
+#   name: Ted Tschopp
+#   url: https://www.tedt.org/
+#   avatar: https://www.tedt.org/img/thumb3.jpg
+
+# description: |
+   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+# excerpt: |
+   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+# seo_description: |
+   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+
+# layout: MCC-GW
+# guid: 2f4b8d5c-cf2a-4030-a6bf-0279eada7693
+# image: 	/media/2018-07-28/ola-larsson-genlabbalpha.jpg
+# image-credits: Genelab Alpha by Ola Larsson https://larsson.artstation.com/projects/qOJQn
+# image-credits-title: Genelab Alpha
+# image-credits-artist: Ola Larsson
+# image-credits-URL: https://larsson.artstation.com/projects/qOJQn
+# categories:
+
+# draft-status: notes
 ---
-
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-
 
 # Notes
 

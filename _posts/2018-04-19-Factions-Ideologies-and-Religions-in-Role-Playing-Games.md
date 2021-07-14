@@ -58,11 +58,8 @@ header:
 
 # Notes
 
-The following ideas have been written down from notes I have taken over the years and merged with Gamma World's concepts of Cryptic Socieities.  The goal here is to create some rules that can be easily moved from one setting to another and from one system to another on their creation.  Things that need to be done:
-* Add components about Morality to Religious Organizations
-* Add components about currencies to Economic Organizations
-* Add components about rebellions, occupations and spies to Political Organizations
-* Add components about Oaths, Allegiances, Investments, and Commitments.
+The goal here is to create some rules that can be easily moved from one setting to another and from one system to another on their creation.  Things that need to be done:
+* Add components about rebellions. Spies, Oaths, Allegiances, Investments, and Commitments.
 
 # Ideologies 
 
@@ -76,13 +73,20 @@ Most societies are formed around a given ideology or way of thinking.  These ide
 
 A group of people who are organized around political ideal are those identified as those who are trying to achieve united ends through the use of politics.  The oldest of these groups found among the families that come together for mutual protection all the way to the formal governmental types of the Ancients such as Monarchies, Democracies, Republics, Communes, and Dictatorships.  People will not be able to be in multiple political groups. 
 
+#### Soldiers
+
 ### Religious
 
 A group of people who are organized around a religious idea are those identified as people who are trying to achieve a united end through the use of religion.  This sort of society does not need to true believers per say to still be considered religious.  The oldest of these religions are those that have survived from the Ancients such as Catholicism, Evangelicalism, Buddhism, Hinduism, and Islam.  Many lower tech level societies also tend to have unique cults that have grown up around their own given experiences.  You may also have AIs, Higher Level Tech societies that might use religion to establish cults that work and worship them.  This is quite common with artificial life that still has a connection to historical archives because the establishment of cults is seen as a very effective way to achieving the outcomes their programmers left them with. People will not be able to be in multiple religious groups.
 
+#### Morals
+
+
 ### Economic
 
 A group of people who are organized around an economic idea are those identified as people who are trying to achieve a united end by exchanging currency.  Many of these groups do not have a given ideology per se, but they do belong to a group that produces an outcome.  The oldest of these have survived from the Ancient times such as corporations, guilds, utility companies, postal services, and traveling caravans.  Today, most tech level 4 enclaves are chiefly this sort of organization that is tied to another ideology such as religious or political.  The most common example is when the enclave produces a given product that is used by the political arm of the society to arm their military.   People will generally not be able to be in multiple economic groups.
+
+#### Currency
 
 ### Service
 
@@ -184,24 +188,26 @@ This is a description of the history of the ideology.
 The university, back in the day, was focused on the development of agricultural technology, and has several farms surrounding it as well.  After the world fell apart, the AI, which operated the facility for the facility had the foresight to fall into a bunker mentality and hunkered down.  When the smoke cleared it saw that it was the largest facility on the University network and started the task of rebuilding and reaching out to the 
 {: .example .well}
 
-### Heiarchy
+### Hierarchy
 
-This is a description of the various levels of membership.  Keep this simple at only 5 levels.  Also describe what resources someone who is of that level can call upon to accomplish their goals.
+This is a description of the various levels of membership.  Keep this simple to a maximum of seven levels.  at only 5 levels.  Also describe what resources someone who is of that level can call upon to accomplish their goals.
 
 <div markdown="1">
-**Level 5:** Dean of the Colleges - These are the leaders at each of the colleges.  The President of the University is also the Dean of the University.  He interacts with the Deans to make very large decisions are coordinated and is responsible for working with the AI, who is the ultimate authority in the University.   The Dean of the College can call upon multiple professors to accomplish their tasks.  They can also work with the AI to balance priorities.  This means that the AI will deploy its military resources for Deans occasionally.   
+**Rank 6:** Dean of the Colleges - These are the leaders at each of the colleges.  The President of the University is also the Dean of the University.  He interacts with the Deans to make very large decisions are coordinated and is responsible for working with the AI, who is the ultimate authority in the University.   The Dean of the College can call upon multiple professors to accomplish their tasks.  They can also work with the AI to balance priorities.  This means that the AI will deploy its military resources for Deans occasionally.   
 
-**Level 4:** Professor of --- - Each professor works with the Dean to pick their field of study and their field of teaching.  Within their chosen discipline they have a lot of autonomy.  They are expected to interact with the other Professors of their discipline from other colleges in order to achieve the goals and objectives of the University.  Professors can call upon their students to help teach and administer their duties.  These students are given delegated responsibilities from the Professors.  Professors may also request the establishment of Laboratories and Chapter Houses.  These requests are generally approved based on availability and need and is one of the standing agenda items discussed by all the professors with their dean.
+**Rank 5:** Professor of --- - Each professor works with the Dean to pick their field of study and their field of teaching.  Within their chosen discipline they have a lot of autonomy.  They are expected to interact with the other Professors of their discipline from other colleges in order to achieve the goals and objectives of the University.  Professors can call upon their students to help teach and administer their duties.  These students are given delegated responsibilities from the Professors.  Professors may also request the establishment of Laboratories and Chapter Houses.  These requests are generally approved based on availability and need and is one of the standing agenda items discussed by all the professors with their dean.
 
-**Level 3:** Students - Everyone who has taken a class or is currently taking a class from the University is considered a student.  Even after death.  Admissions to the University as a Student is quite rigorous and a prestigious accomplishment in and of itself.  Students have access to the library and the archives.  They may request research from these facilities.  The only research off limits is research into the technologies that caused the apocalypse.   
+**Rank 4:** Students - Everyone who has taken a class or is currently taking a class from the University is considered a student.  Even after death.  Admissions to the University as a Student is quite rigorous and a prestigious accomplishment in and of itself.  Students have access to the library and the archives.  They may request research from these facilities.  The only research off limits is research into the technologies that caused the apocalypse.   
 
-**Level 2:** University Police - The University Police are to protect the University from the forces in the world that have caused and perpetuated these current Dark Ages.  They are not tasked with keeping the peace within the University hierarchy.  
+**Rank 3:** University Police - The University Police are to protect the University from the forces in the world that have caused and perpetuated these current Dark Ages.  They are not tasked with keeping the peace within the University hierarchy.  
 
 The AI who runs the University keeps the peace within the University Hierarchy.  This happens rarely, but when it does, the AI itself judges the situation based on the needs of the organization and on the academic merits of the people involved and reassignments are made.  In the event that problems become a regular thing with certain people, they are removed from the University.  The people who leave the University under these conditions, do so under clouds of suspicion.  The University has kept two Spec Ops teams operational from its consolidation with the military bases in the area and has made it known that it has deployed these teams against former teachers who pursue lines of inquiry into the technologies which caused the Apocalypse. 
 
 The University Police have access to Tech level 5 equipment in the event of emergencies, but normal gear consists of Tech Level 4 equipment.  The Two Spec Ops teams that the AI deploys have 12 members each and they access to Tech Level 6 gear, and represent the most fearsome forces in all of Gamma World.  The AI rarely deploys them because it has no way to escalate a confrontation beyond their deployment.   
 
-**Level 1:** The Novices - These are people who visit the University or who benefit from the University, but are not Students or Staff.  The Novices are people who have applied to use either be a student or a staff or to access University Resources.  Novices do not have access to any University Resources, however they do carry a University ID Tag.  This is a Tech Level 4 Dog Tag that tracks the Novices and above through the University facilities via the handheld communication devices given to Level 2 personnel and above.  
+**Rank 2:** The Novices - These are people who visit the University or who benefit from the University, but are not Students or Staff.  The Novices are people who have applied to use the resources of the university or to be a student or a staff or to access University Resources.  Novices do not have access to any University Resources, however they do carry a University ID Tag.  This is a Tech Level 4 Dog Tag that tracks the Novices and above through the University facilities via the handheld communication devices given to Rank 3 personnel and above.  
+
+**Rank 1:** The uncommitted novice - These are people who have never benefited from the University.  They can include people who have never heard of it.  It can also include anyone who has heard of the university and has yet to arrive and make a commitment to the University.
 </div>
 {: .example .well}
 

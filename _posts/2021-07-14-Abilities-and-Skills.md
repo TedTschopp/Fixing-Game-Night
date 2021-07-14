@@ -1,6 +1,8 @@
 ---
 title: "Skills and Abilities"
 date: 2021-07-14T15:55:46-07:00
+last_modified_at: 2021-07-14T16:34:06-07:00
+
 
 categories:
   - Blog
@@ -25,8 +27,9 @@ header:
   image: assets/images/The-School-of-Athens-by-Raffaello.jpg
   image_description: "The School of Athens by Raffaello Sanzio da Urbino, more commonly known just as Raphael"
   caption: "Public Domain"
+  tagline: Reworking Role Playing Games Skills and Abilities
+
 #  overlay_image: /assets/images/Sunset-on-this-ideology.jpeg
-   tagline: Reworking Role Playing Games Skills and Abilities
 #  actions:
 #    - label: 
 #    - url:
@@ -46,6 +49,8 @@ header:
 
 
 ---
+# Skills and Abilities
+
 In the image above we see Raffaello Sanzio da Urbino, more commonly known just as Raphael, picture of The School of Athens.  One of their chief subjects surrounded on the nature of mankind.  Is a man a mind and a body?  Is a man a mind, a body, and a spirit?   
 
 We do not need to delve into the various aspects of these philosophical arguments here, however when devising a role playing game system we do need to answer the question, what aspects of mankind do we want to model within our system? What impacts are important for narrative tension.  I am going to argue that there are four primary impacts that can be made.  The first is physical.  The second is mental.  The third is social.  The fourth is spiritual.  If we can track these four areas we can understand a given characters Body, Mind, Self Image, and their Soul.

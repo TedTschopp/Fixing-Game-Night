@@ -3,6 +3,7 @@ title: "Factions, Ideologies, and Religions in Role Playing Games"
 date: 2018-04-19T03:13:00+00:00
 last_modified_at: 2021-07-13T16:46:06-07:00
 
+
 categories:
   - Blog
 tags:
@@ -53,8 +54,6 @@ header:
 
 
 ---
-
-
 # Notes
 
 The goal here is to create some rules that can be easily moved from one setting to another and from one system to another on their creation.  Things that need to be done:

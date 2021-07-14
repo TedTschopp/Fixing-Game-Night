@@ -10,7 +10,6 @@ tags:
   - Role Playing Games
   - Religion
   - Politics
-  - Gamma World
   - Draft
 
 excerpt_separator: "<!--more-->"
@@ -24,6 +23,8 @@ toc_sticky: true
 
 excerpt: "Most societies are formed around a given ideology or way of thinking."
 
+
+
 header: 
   image: /assets/images/Sunset-on-this-ideology.jpeg
   image_description: "A monument of a man heroically brandishing a flag built in memory of the liberators of Ukraine during World War 2 on the border between Užhorod and Vyšné Nemecké.  It is sunset."
@@ -33,6 +34,9 @@ header:
 #  actions:
 #    - label: 
 #    - url:
+
+classes: wide
+
 
 #author:
 #  name: Ted Tschopp

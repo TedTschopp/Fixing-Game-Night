@@ -1,31 +1,41 @@
 ---
-title: Increasing in Rank in MCC with Archaic Alliances
+title: "Increasing in Rank in MCC with Archaic Alliances"
 date: 2018-11-02T10:37:12-07:00
-author:
-  name: Ted Tschopp
-  url: https://www.tedt.org/
-  avatar: https://www.tedt.org/img/thumb3.jpg
+last_modified_at: 2021-07-13 17:23:09-07:00
 
-description: |
-   The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
-
-excerpt: |
-   The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
-
-seo_description: |
-   The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
-
-
-layout: MCC-GW
-guid: f661541e-286a-43aa-b7a2-00d30f33d010
-permalink: /2018/11/08/Increasing-in-Rank-MCC-with-Archaic-Alliances/
-image: /RPG/MCC-GW/images/Gamma_Alien_large.jpg
 categories:
+  - Blog
+tags:
   - Role Playing Games
   - Gamma World
   - MCC
   - Draft
-draft-status: Alpha
+
+excerpt_separator: "<!--more-->"
+
+author: Ted Tschopp
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: dice-d20
+toc_sticky: true
+
+
+# description: |
+#    The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
+#
+# excerpt: |
+#    The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
+#
+# seo_description: |
+#    The following is an integration of rules for Gamma World's Rank Advancement with Mutant Crawl Classic.  
+
+
+# layout: MCC-GW
+# guid: f661541e-286a-43aa-b7a2-00d30f33d010
+# permalink: /2018/11/08/Increasing-in-Rank-MCC-with-Archaic-Alliances/
+# image: /RPG/MCC-GW/images/Gamma_Alien_large.jpg
+
 ---
 
 # Character Status

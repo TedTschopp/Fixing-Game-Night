@@ -1,5 +1,4 @@
 ---
-id: 1528
 title: "Factions, Ideologies, and Religions in Role Playing Games"
 date: 2018-04-19T03:13:00+00:00
 last_modified_at: 2021-07-13T16:46:06-07:00
@@ -18,9 +17,9 @@ excerpt_separator: "<!--more-->"
 author: Ted Tschopp
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: dice-d20
-toc_sticky: false
+toc_sticky: true
 
 #author:
 #  name: Ted Tschopp

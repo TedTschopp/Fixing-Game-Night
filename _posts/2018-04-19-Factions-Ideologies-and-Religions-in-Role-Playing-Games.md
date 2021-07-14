@@ -37,12 +37,13 @@ author: Ted Tschopp
 
 
 ---
-
-# Contents
+<!-- # Contents
 {:.no_toc}
 
 * Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+{:toc} -->
+
+{% include toc icon="cog" title="My Table of Contents" %}
 
 # Notes
 

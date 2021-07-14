@@ -25,7 +25,7 @@ github_username: username
 minimal_mistakes_skin: sunrise
 
 logo: "/assets/images/Fixing-Game-Night-Banner.png"
-masthead_title: "Fixing Game Night MT"
+# masthead_title: "Fixing Game Night MT"
 
 search: true
 

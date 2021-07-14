@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: fixinggamenight
 github_username: username
 minimal_mistakes_skin: sunrise
+
 search: true
 
 # Build settings

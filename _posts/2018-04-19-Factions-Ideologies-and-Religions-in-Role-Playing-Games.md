@@ -21,6 +21,10 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+header: 
+  overlay_image: /assets/images/Sunset-on-this-ideology.jpg
+  caption: "Sunset on this ideology - Užhorod - Sunset near the border (Slovack Rep. Ukaine) - Ukraine, Uzgorod City by Giorgio Minguzzi https://www.flickr.com/photos/iz4aks/ 4005020863 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)"
+
 #author:
 #  name: Ted Tschopp
 #  url: https://www.tedt.org/
@@ -46,11 +50,10 @@ toc_sticky: true
 # Notes
 
 The following ideas have been written down from notes I have taken over the years and merged with Gamma World's concepts of Cryptic Socieities.  The goal here is to create some rules that can be easily moved from one setting to another and from one system to another on their creation.  Things that need to be done:
-* Fix language to move out of Integration
-* Add components about Morality to Religious Organizatinos
+* Add components about Morality to Religious Organizations
 * Add components about currencies to Economic Organizations
-* Add components about rebelions, occupations and spys to Political Organizations
-* Add components about Oaths, Alliegances, Investments, and Committments.
+* Add components about rebellions, occupations and spies to Political Organizations
+* Add components about Oaths, Allegiances, Investments, and Commitments.
 
 # Ideologies 
 

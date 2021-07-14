@@ -1,5 +1,5 @@
 ---
-title: "Skills & Abilities"
+title: "Skills and Abilities"
 date: 2021-07-14 15:55:46-07:00
 
 
@@ -32,11 +32,6 @@ header:
 #    - label: 
 #    - url:
 
-#author:
-#  name: Ted Tschopp
-#  url: https://www.tedt.org/
-#  avatar: https://www.tedt.org/img/thumb3.jpg
-
 #excerpt: |
 #  Most societies are formed around a given ideology or way of thinking.  These ideologies can be broken up into several different categories.  At the higher tech levels where people have more freetime, those societies will have multiple ideologies from all four segments operating together within their borders.  Each group will have various taboos, symbols, concepts, hierarchies, buildings, trade goods, occupations, equipment, stories, and legends that they have a monopoly on.   It should be noted that ideologies can exist with other ideologies.
 
@@ -52,8 +47,6 @@ header:
 
 
 ---
-
-
 In the image above we see Raffaello Sanzio da Urbino, more commonly known just as Raphael, picture of The School of Athens.  One of their chief subjects surrounded on the nature of mankind.  Is a man a mind and a body?  Is a man a mind, a body, and a spirit?   
 
 We do not need to delve into the various aspects of these philosophical arguments here, however when devising a role playing game system we do need to answer the question, what aspects of mankind do we want to model within our system? What impacts are important for narrative tension.  I am going to argue that there are four primary impacts that can be made.  The first is physical.  The second is mental.  The third is social.  The fourth is spiritual.  If we can track these four areas we can understand a given characters Body, Mind, Self Image, and their Soul.

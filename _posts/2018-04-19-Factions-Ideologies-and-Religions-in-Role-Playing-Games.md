@@ -21,12 +21,14 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+excerpt: Most societies are formed around a given ideology or way of thinking.
+
 header: 
   image: /assets/images/Sunset-on-this-ideology.jpeg
   image_description: "A monument of a man heroically brandishing a flag built in memory of the liberators of Ukraine during World War 2 on the border between Užhorod and Vyšné Nemecké.  It is sunset."
 #  overlay_image: /assets/images/Sunset-on-this-ideology.jpeg
   caption: "Sunset on this ideology - Užhorod - Sunset near the border (Slovack Rep. Ukaine) - Ukraine, Uzgorod City by Giorgio Minguzzi https://www.flickr.com/photos/iz4aks/4005020863 Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)"
-#  excerpt:
+
 #  tagline:
 #  actions:
 #    - label: 

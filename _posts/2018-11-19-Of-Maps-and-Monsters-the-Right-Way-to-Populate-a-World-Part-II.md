@@ -21,7 +21,13 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+excerpt: "One of the aspects of making a sandbox type of role playing game is that many times the monsters that the players run into do not make sense."
 
+header: 
+  image: /assets/images/Ebstorfer.jpg
+  image_description: "Ebstorf Map by Gervase of Ebstorf"
+  caption: "Public Domain"
+  tagline: Making Monsters Make Sense
 
 
 # title: Of Maps and Monsters, the Right way to Populate a World Part II

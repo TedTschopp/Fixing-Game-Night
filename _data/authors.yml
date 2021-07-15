@@ -12,3 +12,15 @@ Ted Tschopp:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tedtschopp"
+
+Fixing Game Night:
+   name   : "Fixing Game Night"
+   avatar : "/assets/images/Fixing Game Night Logo.png"
+   bio    : "Ideas on improving the games we play."
+   links:
+     - label: "Website"
+       icon: "fas fa-fw fa-link"
+       url: "https://fixinggamenight.com"
+     - label: "Twitter"
+       icon: "fab fa-fw fa-twitter-square"
+       url: "https://twitter.com/fixinggamenight"

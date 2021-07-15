@@ -22,32 +22,36 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ideas on improving the games we play.
 twitter_username: fixinggamenight
 github_username: username
-minimal_mistakes_skin: sunrise
 
 logo: "/assets/images/Fixing Game Night Logo.png"
 # masthead_title: "Fixing Game Night MT"
 
-search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: sunrise
+search: true
 # Outputting
 permalink: /:categories/:title/
 breadcrumbs: true
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-
+head_scripts:
+ - https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-svg.js
 timezone: America/Los_Angeles
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 include:
   - _pages
-
-head_scripts:
- - https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-svg.js
-
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -60,14 +64,11 @@ head_scripts:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+
+
+
+
+
 
 # author:
 #   name   : "Fixing Game Night"

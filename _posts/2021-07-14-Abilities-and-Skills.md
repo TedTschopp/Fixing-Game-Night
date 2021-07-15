@@ -49,6 +49,7 @@ header:
 
 
 ---
+
 # Skills and Abilities
 
 In the image above we see Raffaello Sanzio da Urbino, more commonly known just as Raphael, picture of The School of Athens.  One of their chief subjects surrounded on the nature of mankind.  Is a man a mind and a body?  Is a man a mind, a body, and a spirit?  

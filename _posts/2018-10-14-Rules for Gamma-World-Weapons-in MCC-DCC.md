@@ -36,8 +36,8 @@ header:
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 # 
- description: |
-    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
+# description: |
+#    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
 # 
 # excerpt: |
 #    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  

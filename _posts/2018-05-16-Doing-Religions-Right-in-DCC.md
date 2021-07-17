@@ -38,7 +38,7 @@ header:
 #  url: https://www.tedt.org/
 #  avatar: https://www.tedt.org/img/thumb3.jpg
 
-#description: |
+description: |
    Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a religious system that works for a believer and a role player.  I am then going to convert this over to a system that works in a generic Role Playing Game System.
 #excerpt: |
 #   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a religious system that works for a believer and a role player.   

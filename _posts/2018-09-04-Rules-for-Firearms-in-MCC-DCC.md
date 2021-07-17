@@ -1,6 +1,6 @@
 ---
 
-title: "Firearms in MCC & DCC"
+title: "Firearms in MCC and DCC"
 date: 2018-09-04T17:37:12-07:00
 last_modified_at: 2018-09-04T16:44:34-07:00
 
@@ -24,7 +24,7 @@ header:
   image: /assets/images/Weapon-and-Prop Concepts-Splash.jpg
   image_description: "Weapon & Prop Concepts by Matthew Harris https://megalomatthew.artstation.com/"
   caption: "This photo needs to be replaced by a rights free photo."
-  tagline: Ray guns and beam weapons.   
+  tagline: Ray guns and beam weapons.
 
 
 

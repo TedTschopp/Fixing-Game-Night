@@ -6,10 +6,8 @@ last_modified_at: 2021-07-13T19:48:42-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
-  - Gamma World
+  - ☢️ Gamma World
   - Dungeons & Dragons
-  - Draft
 
 excerpt_separator: "<!--more-->"
 

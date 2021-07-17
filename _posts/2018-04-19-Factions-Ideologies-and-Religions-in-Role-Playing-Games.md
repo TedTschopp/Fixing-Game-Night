@@ -7,10 +7,8 @@ last_modified_at: 2021-07-13T16:46:06-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - Religion
   - Politics
-  - Draft
 
 excerpt_separator: "<!--more-->"
 

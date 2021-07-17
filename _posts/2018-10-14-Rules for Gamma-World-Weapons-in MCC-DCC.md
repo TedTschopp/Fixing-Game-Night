@@ -7,10 +7,9 @@ last_modified_at: 2018-10-14T16:44:34-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
-  - Gamma World
-  - MCC
-  - Draft
+  - ☢️ Gamma World
+  - DCC / MCC
+
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp
@@ -20,6 +19,11 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+header: 
+  image: /assets/images/seth-justus-huntersalienguns.jpg
+  image_description: "Hunters Alien Weapons and Devices by Seth Justus https://www.artstation.com/artwork/lqz25"
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: Ray guns and beam weapons.   
 
 
 
@@ -32,8 +36,8 @@ toc_sticky: true
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 # 
-# description: |
-#    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
+ description: |
+    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
 # 
 # excerpt: |
 #    The following is a conversion of rules for Gamma World's Traditional weapons in Mutant Crawl Classic.  
@@ -62,7 +66,27 @@ The following rules are based on my play testing of running Gamma World in MCC. 
 
 # Weapons
 
-## Blasters 
+## Projectiles
+{Work needs to be done here}
+
+### Thrown Weapons
+
+### Kinetic Energy (Bow, Crossbow)
+
+### Slug Thrower
+
+## Missiles 
+{Work needs to be done here}
+
+## Energy Weapons 
+
+### Electric Weapons
+
+### Sound Weapons
+
+### Light Weapons
+
+### Blasters / Particle Weapons
 
 | Type   | Name              | TL| Comp| Range    | Radius |Dmg | Power | Ammo | Rate of Fire | Speed | Weight | Cost | Value |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
@@ -219,7 +243,7 @@ Stinger Crystal  This diamond shaped arrow is multicolored. when activated it sp
 {: .well .table .table-striped}
 
 
-A 25-centimeter square black plastic box weighing 25 kilograms. Disintegrates everything within 60 meters not protected by a Force Field. Does 30 points of damage to characters protected by Force Fields (that may be absorbed by the field if it is strong enough). After detonation, the ground surrounding the Trek Bomb’s former location is disintregrated as well, leaving a perfectly symmetrical 2--'' crater. 
+A 25-centimeter square black plastic box weighing 25 kilograms. Disintegrates everything within 60 meters not protected by a Force Field. Does 30 points of damage to characters protected by Force Fields (that may be absorbed by the field if it is strong enough). After detonation, the ground surrounding the Trek Bomb’s former location is disintegrated as well, leaving a perfectly symmetrical 2--'' crater. 
 
 
 ## Trek Gun

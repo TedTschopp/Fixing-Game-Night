@@ -7,10 +7,8 @@ last_modified_at: 2021-07-13 19:50:35-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - Maps
   - Monsters
-  - Draft
 
 excerpt_separator: "<!--more-->"
 

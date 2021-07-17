@@ -1,17 +1,16 @@
 ---
 
-title: "Doing Religions Right in DCC"
+title: "Doing Religions Right"
 date: 2018-05-16T17:37:12-07:00
 last_modified_at: 2018-05-23T16:44:34-07:00
 
 categories:
   - Blog
 tags:
-  - Role Playing Games
-  - DCC
+  - DCC / MCC
   - Religion
   - Middle-earth
-  - Draft
+
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp
@@ -36,11 +35,11 @@ toc_sticky: true
 #  avatar: https://www.tedt.org/img/thumb3.jpg
 
 #description: |
-#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a relgious system that works for a believer and a role player.   
+#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a religious system that works for a believer and a role player.   
 #excerpt: |
-#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a relgious system that works for a believer and a role player.   
+#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a religious system that works for a believer and a role player.   
 #seo_description: |
-#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a relgious system that works for a believer and a role player.   
+#   Every role playing game that I have ever run into with the exception of Dogs in the Vineyard has done religions wrong in role playing games.  These are my notes on how to get DCC closer to a religious system that works for a believer and a role player.   
 
 #layout: post
 #guid: 61829ad4-ef0c-46d1-af81-613e59b55850

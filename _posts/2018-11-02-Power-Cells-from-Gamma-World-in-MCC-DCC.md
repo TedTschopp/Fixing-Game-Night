@@ -8,17 +8,29 @@ categories:
   - Blog
 tags:
   - Role Playing Games
-  - Gamma World
-  - MCC
-  - Draft
+  - ☢️ Gamma World
+  - DCC / MCC
+
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp
+
+description: |
+    Integrating the rules from Gamma World and Mutant Crawl Classics on how Power Cells Work.  
+ 
+
 
 toc: true
 toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
+
+
+header: 
+  image: /assets/images/District-9-Alien-Fuel-Cell-by-Josh-Haberman-Splash.jpg
+  image_description: "Rendered Fuel Cells from the Movie District 9.  By Josh Haberman."
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: All technology needs to get powered somehow. 
 
 
 # title: Power Cells from Gamma World in MCC & DCC
@@ -29,7 +41,7 @@ toc_sticky: true
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 # 
 # description: |
-#    The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
+#    The following is an integration of rules for Gamma World's Power Cells with Mutant Crawl Classic.  
 # 
 # excerpt: |
 #    The following is an integration of rules for Gamma World's Power Cells with  Mutant Crawl Classic.  
@@ -54,16 +66,9 @@ toc_sticky: true
 # draft-status: Alpha
 ---
 
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-
-
 # POWER CELLS
 
-## C-CELL
+## C-CELL - Chemical Cells
 
 Tech Level: 4
 
@@ -75,12 +80,12 @@ Avg. Cost: 10 Ð
 
 Power: 1-6 years
 
-C-Cells (chemical power cells) are a universal power source used to power artifacts of the ancients. Considered disposable technology by the Ancient Ones and therefor mass produced, these advanced and compact dilithium battery packs were capable of producing enormous amounts of power, albeit for a limited amount of time.  They lose their charge after 1 to 6 years of disuse. When found, these power cells are usually (90%) drained of power. 
+C-Cells (chemical power cells) are a universal power source used to power artifacts of the ancients. Considered disposable technology by the Ancient Ones and therefor mass produced, these advanced and compact chemical battery packs were capable of producing enormous amounts of power, albeit for a limited amount of time.  They lose their charge after 1 to 6 years of disuse. When found, these power cells are usually (90%) drained of power. 
 
 
-## H-CELL 
+## H-CELL - Hydrogen
 
-Tech Level: 4
+Tech Level: 5
 
 Complexity: 2
 
@@ -93,9 +98,9 @@ Power: 1-6 years
 These power cells last 10 times as long as C-Cells. They are the same size as a C-Cell and can be substituted for one without risk. Similar to Chemical Energy Cells, but are less common. They don't lose their charge from disuse.  When found, they usually (80%) have a full charge.
 
 
-## F-CELL, N-CELL, A-CELL
+## F-CELL, N-CELL, A-CELL - Fusion, Nuclear, Atomic Cells
 
-Tech Level: 4
+Tech Level: 6
 
 Complexity Modifier: 2
 
@@ -109,7 +114,7 @@ F-Cells (fusion power cells) are a universal power source used to power artifact
 
 ## F-PACK, N-PACK, A-PACK
 
-Tech Level: 4
+Tech Level: 6
 
 Complexity Modifier: 4
 
@@ -119,9 +124,9 @@ Avg. Cost: Priceless
 
 Power: <1000 years
 
-F-Packs (fusion power packs) are a portable and wearable universal power source used to power larger artifacts of the ancients that require vehicle-class power sources. Con- taining a small fusion reactor, these powerful and reliable power packs are capable of fusing ambient atmospheric elements, producing enough energy to meet the energy re- quirements of a diverse selection of heavy-duty items from bubble cars to powered assault armor.  It is has a duralloy shell, and, if penetrated, releases intensity 18 radiation into its surroundings.
+F-Packs (fusion power packs) are a portable and wearable universal power source used to power larger artifacts of the ancients that require vehicle-class power sources. Containing a small fusion reactor, these powerful and reliable power packs are capable of fusing ambient atmospheric elements, producing enough energy to meet the energy requirements of a diverse selection of heavy-duty items from bubble cars to powered assault armor.  It is has a duralloy shell, and, if penetrated, releases intensity 18 radiation into its surroundings.
 
-## S-CELL
+## S-CELL - Solar Cells
 
 Tech Level: 4 
 
@@ -133,9 +138,35 @@ Avg. Cost: 75 Ð
 
 Power: 1-6 years
 
-S-Cells (solar power cells) are a power source used to power artifacts of the ancients with lower power requirements. Containing a small solar collector, these dependable power sources are capable of producing small amounts of power indefinitely so long as they are exposed to daylight for at least 4 hours out of every 24.  Otherwise, they are identical to C-Cells cells and can replace them without risk. They last as long as a normal chemical power cell. (BRB)
+S-Cells (solar power cells) are a power source used to power artifacts of the ancients with lower power requirements. Containing a small solar collector, these dependable power sources are capable of producing small amounts of power indefinitely so long as they are exposed to daylight for at least 4 hours out of every 24.  Otherwise, they are identical to C-Cells cells and can replace them without risk. They last as long as a normal chemical power cell.
 
-## SOLAR RECHARGER
+## Q-CELL
+
+Tech Level: 7
+
+Complexity Modifier: 3
+
+Value: Rank
+
+Avg. Cost: Priceless 
+
+Q-Cells (quantum power cells) are a universal power source used to power artifacts of the ancients. Containing a miniaturized quantum particle collider, these robust power sources are capable of producing prodigious amounts of energy for centuries on end, making them a nearly limitless source of power.
+
+## Q-PACK
+
+Tech Level: 7
+
+Complexity Modifier: 3
+
+Value: Rank x 2
+
+Avg. Cost: Priceless 
+
+A Q-Pack (quantum power pack) is a universal power source used to power larger artifacts of the ancients that have massive energy requirements. Containing a small quantum particle collider, these robust power sources are capable of producing prodigious-enough amounts of energy to power small orbital craft or powered assault armor.
+
+# Power Plants
+
+## Solar Recharger
 
 Tech Level: 4 
 
@@ -148,32 +179,6 @@ Value: 1000
 Avg. Cost: 2,500 Ð 
 
 A solar recharger unit is a small satchel-sized device capable of recharging up to four C-Cells at a time per every 4 hours exposed to direct sunlight for C-Cells and 8 hours for H-Cells.  
-
-## Q-CELL
-
-Tech Level: 5 
-
-Complexity Modifier: 3
-
-Value: Rank
-
-Avg. Cost: Priceless 
-
-Q-Cells (quantum power cells) are a universal power source used to power artifacts of the ancients. Containing a miniaturized quantum particle collider, these robust power sources are capable of producing prodigious amounts of energy for centuries on end, making them a nearly limitless source of power.
-
-## Q-PACK
-
-Tech Level: 5 
-
-Complexity Modifier: 3
-
-Value: Rank x 2
-
-Avg. Cost: Priceless 
-
-A Q-Pack (quantum power pack) is a universal power source used to power larger artifacts of the ancients that have massive energy requirements. Containing a small quantum particle collider, these robust power sources are capable of producing prodigious-enough amounts of energy to power small orbital craft or powered assault armor.
-
-# Power Plants
 
 ## Broadcast Power Charger
 

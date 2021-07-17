@@ -7,10 +7,8 @@ last_modified_at: 2021-07-14T16:34:06-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - Skills
   - Abilities
-  - Draft
 
 excerpt_separator: "<!--more-->"
 

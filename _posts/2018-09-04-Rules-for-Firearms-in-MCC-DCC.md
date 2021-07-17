@@ -8,9 +8,9 @@ categories:
   - Blog
 tags:
   - Role Playing Games
-  - Gamma World
-  - MCC
-  - Draft
+  - ☢️ Gamma World
+  - DCC / MCC
+
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp

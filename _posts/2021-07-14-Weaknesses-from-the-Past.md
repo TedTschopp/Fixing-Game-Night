@@ -6,10 +6,8 @@ last_modified_at: 2021-07-14T17:45:54-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - Abilities
   - Hit Points
-  - Draft
 
 excerpt_separator: "<!--more-->"
 

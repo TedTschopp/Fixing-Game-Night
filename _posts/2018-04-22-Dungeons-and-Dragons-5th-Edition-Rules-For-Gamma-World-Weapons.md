@@ -7,11 +7,9 @@ last_modified_at: 2021-07-13 19:46:04-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
-  - Gamma World
+  - ☢️ Gamma World
   - Dungeons & Dragons
-  - Draft
-
+ 
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp

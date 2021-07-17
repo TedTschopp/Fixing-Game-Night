@@ -7,10 +7,8 @@ last_modified_at: 2021-07-13 17:23:09-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - Gamma World
-  - MCC
-  - Draft
+  - DCC / MCC
 
 excerpt_separator: "<!--more-->"
 

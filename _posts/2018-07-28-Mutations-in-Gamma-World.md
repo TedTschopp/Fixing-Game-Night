@@ -7,9 +7,8 @@ last_modified_at: 2018-07-28T16:44:34-07:00
 categories:
   - Blog
 tags:
-  - Role Playing Games
   - ☢️ Gamma World
-  - Draft
+
 excerpt_separator: "<!--more-->"
 
 author: Ted Tschopp

@@ -19,6 +19,12 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+header: 
+  image: /assets/images/Gamma-World-The-Leviathan.jpg
+  image_description: "The Leviathan by Larry Elmore - http://www.larryelmore.com/store/TSTL/tsr--the-leviathan"
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: The Valar as Saintly Icons  
+
 
 
 # id: 1629

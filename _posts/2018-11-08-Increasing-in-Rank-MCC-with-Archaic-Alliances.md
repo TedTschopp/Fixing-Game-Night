@@ -7,7 +7,7 @@ last_modified_at: 2021-07-13 17:23:09-07:00
 categories:
   - Blog
 tags:
-  - Gamma World
+  - ☢️ Gamma World
   - DCC / MCC
 
 excerpt_separator: "<!--more-->"

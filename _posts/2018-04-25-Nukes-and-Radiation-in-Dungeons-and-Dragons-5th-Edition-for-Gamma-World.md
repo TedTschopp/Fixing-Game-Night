@@ -18,7 +18,11 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
-
+header: 
+  image: /assets/images/Gamma-World-Third-Edition.jpg
+  image_description: "The Ultimate A.T.V. by Keith Parkinson - https://www.keithparkinson.com/"
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: The Valar as Saintly Icons  
 
 
 # id: 1630

@@ -19,7 +19,11 @@ toc_icon: dice-d20
 toc_sticky: true
 
 
-
+header: 
+  image: /assets/images/ola-larsson-genlabbalpha-Splash.jpg
+  image_description: "Genelab Alpha by Ola Larsson https://larsson.artstation.com/projects/qOJQn"
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: Ray guns and beam weapons.   
 
 
 # title: 
@@ -30,8 +34,8 @@ toc_sticky: true
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 
-# description: |
-#   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
+description: |
+  My thoughts on Mutations in Gamma World and evolving it into D&D 5e. A lot of work is needed here, but I thought I'd release it.   
 # excerpt: |
 #   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
 # seo_description: |

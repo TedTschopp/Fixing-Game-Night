@@ -20,6 +20,13 @@ toc_label: "Table of Contents"
 toc_icon: dice-d20
 toc_sticky: true
 
+header: 
+  image: /assets/images/Weapon-and-Prop Concepts-Splash.jpg
+  image_description: "Weapon & Prop Concepts by Matthew Harris https://megalomatthew.artstation.com/"
+  caption: "This photo needs to be replaced by a rights free photo."
+  tagline: Ray guns and beam weapons.   
+
+
 
 
 
@@ -32,8 +39,8 @@ toc_sticky: true
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 # 
-# description: |
-#    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
+ description: |
+    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I playtested these by converting a Gamma World module to MCC.   I will now be converting them over to generic Role Playing Game Rules.
 # 
 # excerpt: |
 #    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
@@ -57,14 +64,6 @@ toc_sticky: true
 # draft-status: Alpha
 ---
 
-
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-
-
 # Notes
 
 The following rules are what I have collected from around the Internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 
@@ -83,7 +82,7 @@ The following rules are what I have collected from around the Internet for the u
 
 ### Firearm Proficiency
 
-First-time users decrease the die they use to roll their atacks by -1d to attacks with a firearm and they increase the fumble die by +1d. These penalties exists until either the character gains a level or appropriate training is acquired since first using the weapon.  Training will take a month where the character must spend 2 hours a day shooting his weapon.  This means a character must expend 2 hours x 60 minutes a hour x 7 days a week x 4 weeks a month = 3,360 rounds of ammunition.
+First-time users decrease the die they use to roll their attacks by -1d to attacks with a firearm and they increase the fumble die by +1d. These penalties exists until either the character gains a level or appropriate training is acquired since first using the weapon.  Training will take a month where the character must spend 2 hours a day shooting his weapon.  This means a character must expend 2 hours x 60 minutes a hour x 7 days a week x 4 weeks a month = 3,360 rounds of ammunition.
 
 ### Reloading 
 

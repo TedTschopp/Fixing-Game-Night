@@ -23,7 +23,7 @@ header:
   image: /assets/images/seth-justus-huntersalienguns.jpg
   image_description: "Hunters Alien Weapons and Devices by Seth Justus https://www.artstation.com/artwork/lqz25"
   caption: "This photo needs to be replaced by a rights free photo."
-  tagline: Ray guns and beam weapons.   
+  tagline: "Ray guns and beam weapons."
 
 
 

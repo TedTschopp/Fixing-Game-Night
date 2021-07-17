@@ -39,8 +39,8 @@ header:
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 # 
- description: |
-    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I playtested these by converting a Gamma World module to MCC.   I will now be converting them over to generic Role Playing Game Rules.
+# description: |
+#    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I playtested these by converting a Gamma World module to MCC.   I will now be converting them over to generic Role Playing Game Rules.
 # 
 # excerpt: |
 #    The following rules are what I have collected from around the internet for the use of firearms in MCC & DCC.  I will be playtesting these by converting a Gamma World module to MCC. 

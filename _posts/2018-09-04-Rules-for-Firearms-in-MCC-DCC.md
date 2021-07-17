@@ -24,7 +24,6 @@ header:
   image: /assets/images/Weapon-and-Prop Concepts-Splash.jpg
   image_description: "Weapon & Prop Concepts by Matthew Harris https://megalomatthew.artstation.com/"
   caption: "This photo needs to be replaced by a rights free photo."
-  tagline: Ray guns and beam weapons.
 
 
 

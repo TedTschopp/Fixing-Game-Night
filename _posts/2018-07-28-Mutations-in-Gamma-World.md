@@ -34,8 +34,8 @@ header:
 #   url: https://www.tedt.org/
 #   avatar: https://www.tedt.org/img/thumb3.jpg
 
-description: |
-  My thoughts on Mutations in Gamma World and evolving it into D&D 5e. A lot of work is needed here, but I thought I'd release it.   
+# description: |
+#   My thoughts on Mutations in Gamma World and evolving it into D&D 5e. A lot of work is needed here, but I thought I'd release it.   
 # excerpt: |
 #   During the days of Tech Level VI, a lot of time was spent by Artificial Intelligences and bioengineers to come up with ways to modify humans, animals, and plants.  During this time all sort of transhumanism and animal / plant uplifting took place.  After the cataclysm many of these strains granted their species advantages in survival.   The following attempts to recreate the understanding these people had and make sense of this information.
 # seo_description: |

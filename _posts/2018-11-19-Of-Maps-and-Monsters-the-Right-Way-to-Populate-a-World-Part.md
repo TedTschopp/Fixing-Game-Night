@@ -1,6 +1,6 @@
 ---
 
-title: "Of Maps and Monsters, the Right way to Populate a World Part II"
+title: "Of Maps and Monsters, the Right way to Populate a World Part"
 date: 2018-11-19T21:04:42-07:00
 last_modified_at: 2021-07-13 20:05:56-07:00
 
@@ -28,7 +28,7 @@ header:
   tagline: Making Monsters Make Sense
 
 
-# title: Of Maps and Monsters, the Right way to Populate a World Part II
+# title: Of Maps and Monsters, the Right way to Populate a World
 # date: 2018-11-19T21:04:42-07:00
 # author:
 #   name: Ted Tschopp
@@ -817,10 +817,20 @@ $$
 d = \sqrt{6\times(2 \times 20,900,000+6)}
 \\
 \\
+$$
+
+$$
+\\
+\\
 \therefore
 \\
 \\
 d = \sqrt{6 \times 41,800,006}
+\\
+\\
+$$
+
+$$
 \\
 \\
 \therefore
@@ -829,15 +839,30 @@ d = \sqrt{6 \times 41,800,006}
 d = \sqrt{250,800,036}
 \\
 \\
+$$
+
+$$
+\\
+\\
 \therefore
 \\
 \\
 d = 15,836.6674525 \text{ feet}
 \\
+$$
+
+$$
+\\
+\\
 \therefore
 \\
 \\
 d = 15,836.6674525 \text{ feet} \times \frac{1\text{ mile}}{5280\text{ feet}}
+\\
+\\
+$$
+
+$$
 \\
 \\
 \therefore
@@ -846,10 +871,20 @@ d = 15,836.6674525 \text{ feet} \times \frac{1\text{ mile}}{5280\text{ feet}}
 d = 2.99936883569 \text{ miles} 
 \\
 \\
+$$
+
+$$
+\\
+\\
 \therefore
 \\
 \\
 \text{round}(d)= \lceil d-\frac{1}{2} \rceil
+\\
+\\
+$$
+
+$$
 \\
 \\
 \therefore
@@ -858,10 +893,21 @@ d = 2.99936883569 \text{ miles}
 \text{round}(2.99936883569)= \lceil 2.99936883569-\frac{1}{2} \rceil
 \\
 \\
+$$
+
+$$
+\\
+\\
 \therefore
 \\
 \\
 d = 2.99936883569  \approx 3 \text{ miles} 
+\\
+\\
+$$
+
+$$
+\\
 \\
 \therefore
 \\
@@ -869,9 +915,6 @@ d = 2.99936883569  \approx 3 \text{ miles}
 d = 3 miles = 3 hexs 
 \\
 \\
-
-
-
 $$
 
 

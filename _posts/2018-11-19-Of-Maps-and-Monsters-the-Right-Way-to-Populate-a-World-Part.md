@@ -380,7 +380,7 @@ A significant bank of nettles or a briar patch can pose a serious obstacle to mo
 Nettles and briars can be crossed, but count as difficult terrain.| Nettles and briars can be crossed, but count as difficult terrain.
 {: .well .table .dccvsdnd .table-striped} 
 
-#### Old floors
+#### Old Stone floors
 >-“He felt that he was lying in a soft slimy bog, and springing up he set his foot on the corner of a cold hard flagstone. Then he remembered where he was and lay down again.”-
 
 Flagstone laid in ages long past create uncertain and uneven footing – poor ground on which to make a stand. 
@@ -777,10 +777,17 @@ Travel Pace and Effects
 | Extreme | Slow   | 25              | 0.25          | 9                  | 2.25        | 240          | 0.25         | 2.25        | Able to use stealth                              | 
 {: .well .table .table-striped}
 
-## Kingdom Scale (6 Mile Per Hex)
+## Scale (6 Miles Per Hex)
 
+## Providences Scale (24 Miles Per Hex)
 
-## Continent Scale (60 Mile Per Hex)
+A goverment can only exist when it can collect taxes and project military power.  Once it can no longer do that it must rely on agreements, treaties, and other approaches.  In every hex at 24 miles there will be an established base of power where the goverment can do this.  This base of power will have the ability to interact with all their neighboring providences
+
+## Continent Scale (120 Mile Per Hex)
+At the Continent Scale a party will be able to travel across a single hex in 1 week.  This assumes 2 days rest, which would be standard for easy travel.  The party itself would be travelling though 5 seperate providences and spending each night in the "capital" of that providence.  Generally travel will take the first and the last day's of the week off for resupply as well as resting of animals and the people.
+
+## Planetary Scale 
+
 
 
 ## Stellar Scale
@@ -912,10 +919,26 @@ $$
 \therefore
 \\
 \\
-d = 3 miles = 3 hexs 
+d = 3 \text{miles = 3 Providence Scale Hexs in each direction.}
 \\
 \\
 $$
+
+$$
+\\
+\\
+\therefore
+\\
+\\
+\text{3 Providence Scale Hexs in each direction = 1 Kingdom Hex}
+\\
+\\
+$$
+
+#### Scale
+
+The above math is why the scale of the various hexes is the way that it is.  The scale of the Encounter Hex is based of the size of the average human and the space they need to manuver freely in difficult circumstances without suffering any sort of penality due to people standing closer.  The Providence and Kingdom scales are based on the distance the average human can see.  This makes playing on such maps a whole lot easier because a this scale the players should be able to reasonably see major features into the next Kingdom scale map after manuvering around a bit within it to get to a good vantage point.
+
 
 
 ### Ring

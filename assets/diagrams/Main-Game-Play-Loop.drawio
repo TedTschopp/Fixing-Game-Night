@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T01:48:27.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="SrFYrIFbCeNvFkAOK8PU" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T01:51:10.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="CfQLaiyIL-IdQ9J18am2" version="14.9.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="3166" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="e0a0mlrAqAKEXTUKsguY-5" value="Main Game Play Loop for a Cooperative Narrative Story Telling Game (RPG)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="-260" y="80" width="1500" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="e0a0mlrAqAKEXTUKsguY-14" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" parent="e0a0mlrAqAKEXTUKsguY-5" source="se_myZtcoQrNugmu_MZx-2" target="se_myZtcoQrNugmu_MZx-6" edge="1">
+        <mxCell id="e0a0mlrAqAKEXTUKsguY-14" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="e0a0mlrAqAKEXTUKsguY-5" source="se_myZtcoQrNugmu_MZx-2" target="se_myZtcoQrNugmu_MZx-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="110" as="targetPoint" />
           </mxGeometry>
@@ -71,13 +71,13 @@
         <mxCell id="e0a0mlrAqAKEXTUKsguY-43" value="Time to Stop?" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0a0mlrAqAKEXTUKsguY-6" vertex="1">
           <mxGeometry x="1360" y="80" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="e0a0mlrAqAKEXTUKsguY-45" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="e0a0mlrAqAKEXTUKsguY-6" vertex="1">
+        <mxCell id="e0a0mlrAqAKEXTUKsguY-45" value="Stop" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0a0mlrAqAKEXTUKsguY-6" vertex="1">
           <mxGeometry x="1360" y="265" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="se_myZtcoQrNugmu_MZx-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="e0a0mlrAqAKEXTUKsguY-6" source="se_myZtcoQrNugmu_MZx-6" target="e0a0mlrAqAKEXTUKsguY-1">
+        <mxCell id="se_myZtcoQrNugmu_MZx-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="e0a0mlrAqAKEXTUKsguY-6" source="se_myZtcoQrNugmu_MZx-6" target="e0a0mlrAqAKEXTUKsguY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="se_myZtcoQrNugmu_MZx-6" value="Is there any Conflict" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="e0a0mlrAqAKEXTUKsguY-6">
+        <mxCell id="se_myZtcoQrNugmu_MZx-6" value="Is there any Conflict" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="e0a0mlrAqAKEXTUKsguY-6">
           <mxGeometry x="590" y="20" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e0a0mlrAqAKEXTUKsguY-33" value="Agree with Proposal" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="e0a0mlrAqAKEXTUKsguY-6" vertex="1">

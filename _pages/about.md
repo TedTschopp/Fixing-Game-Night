@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This is a place for you if you enjoy role-playing games.  You can find the following pieces of materials on this website.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Improve Your Role-Playing Games
+There are articles here that talk about the theory of Role Playing Games with a focus on how you can improve your craft.  In many cases, the examples the details here will be overwhelming if you following them exactly.  The goal is to provide everyone with as much details as possible and then allow you to pick an area and work in the recommended improvement.
+
+## Fresh Ideas for your Gaming Table
+
+
+## New Places to Visit in your Role-Playing Game
+
+
+## New Characters to Interact with
+

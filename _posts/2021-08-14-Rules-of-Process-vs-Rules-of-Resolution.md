@@ -20,10 +20,9 @@ toc_icon: dice-d20
 toc_sticky: true
 
 header: 
-  image: /assets/images/Meta-Rules-UnSplash-Splash.png
+  image: /assets/images/Meta-Rules-UnSplash.png
   image_description: "Tingey Injury Law Firm Lady Justice Statue"
-  caption: "This photo needs to be replaced by a rights free photo."
-  tagline: "Ray guns and beam weapons."
+  caption: "UnSpash"
 ---
 
 ## Introduction

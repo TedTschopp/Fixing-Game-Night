@@ -104,6 +104,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# google_site_verification: 
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "G-25EDL1SPYC"
+    anonymize_ip: false # default
 
 # Used by Utterances
 repository: TedTschopp/Fixing-Game-Night
